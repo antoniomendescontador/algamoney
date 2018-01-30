@@ -1,5 +1,6 @@
 target/
 */tmp/
+/tmp/build_588a0a57ab4eae28463bed6a4ff6e4d1/target/classes
 !.mvn/wrapper/maven-wrapper.jar
 
 
